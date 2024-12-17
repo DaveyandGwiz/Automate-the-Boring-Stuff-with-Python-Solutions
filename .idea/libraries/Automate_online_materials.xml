@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Automate_online-materials">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Automate_online-materials/removeCsvHeader.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Automate_online-materials/example.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Automate_online-materials/excelSpreadsheets.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

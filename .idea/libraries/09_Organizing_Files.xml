@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="09_Organizing_Files">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/09_Organizing_Files/new.zip!/" />
+      <root url="jar://$PROJECT_DIR$/09_Organizing_Files/example.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
